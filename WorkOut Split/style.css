@@ -1,0 +1,41 @@
+
+h1{
+    background-color: gray;
+}
+
+body {
+    background-color: lightgray;
+}
+
+div.container {
+    background-color: #fff;
+    width: 70%;
+    height: 100%;
+    margin: auto;
+}
+
+div.logo img {
+    align-content: center;   
+    float: left;
+} 
+
+
+
+/* 
+ body {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 100px;
+    height: 250px;
+    border: 1px solid #ccc;
+    overflow: hidden;
+} */
+
+.container img {
+    width: auto;
+    height: auto;
+    display: block;
+}
